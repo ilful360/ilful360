@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <h2 align="center"> Github Statistics 📈 </h2>
   
 <div align="cent<a href="">
-  ![](https://github-readme-stats.vercel.app/api?username=ilful360&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
   </a>
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
