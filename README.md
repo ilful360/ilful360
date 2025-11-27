@@ -26,7 +26,7 @@
 <!-- Welcome -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;>&nbsp;&nbsp;&nbsp;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8Bᅠ;>&nbsp;Self-Taught+Back-End+Engineer,;>&nbsp;&nbsp;&nbsp;Computer+Science+Student,;>&nbsp;&nbsp;Active+Learner/Researcher,;>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Problem+Solver,ᅠᅠᅠᅠ;>&nbsp;&nbsp;Love+to+learn+new+stuffs..<3;-+-+-">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;>&nbsp;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8Bᅠ;>&nbsp;Self-Taught+Back-End+Engineer,;>&nbsp;Computer+Science+Student,;>&nbsp;Active+Learner/Researcher,;>&nbsp;Problem+Solver,ᅠᅠᅠᅠ;>&nbsp;Love+to+learn+new+stuffs..<3;-+-+-">
 </p>
 
 
