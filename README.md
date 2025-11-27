@@ -45,7 +45,7 @@
 <!-- Welcome -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8B;Self-Taught+Back-End+Engineer,;Computer+Science+Student,;Active+Learner/Researcher,;Problem+Solver,;Love+to+learn+new+stuffs..<3;-+-+-.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8B;Self-Taught+Back-End+Engineer,;Computer+Science+Student,;Active+Learner/Researcher,;Problem+Solver,;Love+to+learn+new+stuffs..<3;-+-+-">
 </p>
 
 
@@ -209,7 +209,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
    <th><h2>🐸Fun Fact</h2>
 <br>
 	<p align="center"> 
-<br>
       <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </p>
 	</th>
