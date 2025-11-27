@@ -1,27 +1,6 @@
 
 
 
-<a   target="_blank" href="https://www.facebook.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" style="margin-left: 10px;" ></a>
-
-
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
 
 <!-- HEADER -->
 
