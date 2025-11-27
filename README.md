@@ -1,5 +1,51 @@
 
 
+<a   target="_blank" href="https://www.facebook.com/in/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" style="margin-left: 10px;" ></a>
+
+
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+<div align="center" width="100">
+<table border="0" >
+  <tr><th><!--STARTS_HERE_QUOTE_CARD--><h2>🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+    <br><p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+</th>
+    <th>
+      <br>
+    <br>
+      <br>
+      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></th>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>✍️ Random Dev Quote</h2>
+<div align="center" width="100">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+  </tr>
+</table>
+</div>
+
+
+
+
+
+
+
+<br>
 
 <!-- HEADER -->
 <div align="center" width="100">
@@ -63,6 +109,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) 
 
+
+
+
+
+
+
+
+
 <div align=left>
   
 ## 🐍 OMG!!ᅠSomeone Stop This Snake. 😵
@@ -74,6 +128,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+
+
+
 <div align=center>
   
 ## 🏆 GitHub Trophies
@@ -83,6 +140,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
 
 <td>
   
@@ -95,10 +154,19 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 #### Other
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </td>
+
+
+
+
 <div align='center'>
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+
+
+
 
 <h2 align="center"> Github Statistics 📈 </h2>
 
@@ -107,6 +175,12 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+
+
+
+
 
 <div align="cent<a href="">
 
@@ -119,27 +193,31 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </a>
 
 
+
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+
+
 <br>
 <br>
 
-<a href="">
-  
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-</a>
+
 
 <div align='center'>
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-----
 
 
-## 🌐 Socials:
+
+
+
+
+<h3>🌐 Socials:</h3>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1274383902873751654)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ilful360)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/ilful360)
@@ -147,3 +225,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ilful360)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilful360@gmail.com)
 <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+
+
+
+
+
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
