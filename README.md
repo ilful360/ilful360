@@ -16,33 +16,6 @@
 
 
 
-<div align="center" width="100">
-<table border="0" >
-  <tr><th><!--STARTS_HERE_QUOTE_CARD--><h2>🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-    <br><p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-</th>
-    <th>
-      <br>
-    <br>
-      <br>
-      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></th>
-  </tr>
-  <tr>
-    <td colspan="2"><h2>✍️ Random Dev Quote</h2>
-<div align="center" width="100">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</td>
-  </tr>
-</table>
-</div>
-
-
-
-
-
 
 
 <br>
@@ -194,21 +167,62 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
 
-<br>
-<br>
-
+<div align="center" width="100">
+<table border="0" >
+  <tr><th><!--STARTS_HERE_QUOTE_CARD--><h2>🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+    <br><p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+</th>
+    <th>
+		<br>
+		<h2>🐸Fun Fact</h2>
+    <br><p align="center">
+      <br>
+    <br>
+      <br>
+      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+	</p>
+	</th>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>✍️ Random Dev Quote</h2>
+<div align="center" width="100">
+  <br>
+	
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+  </tr>
+</table>
+</div>
 
 
 <div align='center'>
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
+
+
+
 
 
 
