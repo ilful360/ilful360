@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 </th>
    <th><h2>🐸Fun Fact</h2>
-<br>
+<br>ᅠ
 	<p align="center"> 
       <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </p>
