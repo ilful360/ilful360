@@ -1,5 +1,6 @@
 
 
+
 <a   target="_blank" href="https://www.facebook.com/in/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" style="margin-left: 10px;" ></a>
 
@@ -20,30 +21,36 @@
 
 <br>
 
+
+
 <!-- HEADER -->
+
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=300&section=header&text=أعُوذُ%20بِاللهِ%20مِنَ%20الشَّيْطَانِ%20الرَّجِيمِ&fontSize=50&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
-
-
-
-
-
-
-
 <div align='center'>
    
 ## <b>بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ</b>
 
+
+
 <br>
 <br>
 <br>
 
-<div align=center>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%236FDA44&size=32&center=true&width=600&height=50&lines=7AF79A&size=32&lines=.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.+.+.+.;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8B;Self-taught+Back-End+Engineer,;Computer+Science+Student,;Active+Learner/Researcher,;Problem+Solver,;Love+to+learn+new+stuffs..<3;-+-+-" alt="Headline"/>
-</div>
+
+
+<!-- Welcome -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8B;Self-Taught+Back-End+Engineer,;Computer+Science+Student,;Active+Learner/Researcher,;Problem+Solver,;Love+to+learn+new+stuffs..<3;-+-+-.">
+</p>
+
+
+
+<!-- Bar=x2 -->
 
 <div align='center'>
   
@@ -57,7 +64,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 <br>
 <div align='left'>
-  
+
+
+
+  <!-- About Me -->
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
 
 
@@ -76,6 +87,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 
 
+<!-- Bar=x1 -->
 
   <div align='center'>
   
@@ -85,16 +97,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
-
-
-
+<!-- Snake Game -->
 
 <div align=left>
   
 ## 🐍 OMG!!ᅠSomeone Stop This Snake. 😵
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<br>
+
+
+<!-- Bar=x1 -->
 
 <div align='center'>
   
@@ -103,18 +116,25 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+<!-- Trophies -->
 
 <div align=center>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+<!-- Bar=x1 -->
+
 <div align='center'>
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
+
+<!-- Skills -->
 
 <td>
   
@@ -130,6 +150,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+<!-- Bar=x1 -->
 
 <div align='center'>
   
@@ -138,22 +159,23 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
-
+<!-- Github Statistics  -->
 
 <h2 align="center"> Github Statistics 📈 </h2>
 
   ![ILFUL's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilful360&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)
 <div align='center'>
-  
+
+
+
+  <!-- Bar=x1 -->
+
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
 
-
-
-
+<!-- Activity -->
 
 <div align="cent<a href="">
 
@@ -167,22 +189,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+  <!-- Bar=x1 -->
 
-
-
-
-
-
-
-
-
-
-
-  
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
+
+<!-- Table -->
 
 <div align="center" width="100">
 <table border="0" >
@@ -196,7 +210,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 		<h2>🐸Fun Fact</h2>
     <br><p align="center">
       <br>
-    <br>
       <br>
       <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 	</p>
@@ -208,11 +221,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <br>
 	
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 </td>
   </tr>
 </table>
 </div>
 
+
+
+<!-- Bar=x1 -->
 
 <div align='center'>
   
@@ -221,14 +238,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
-
-
-
-
-
-
-
+<!-- Socials / Contacts -->
 
 <h3>🌐 Socials:</h3>
 
@@ -239,8 +249,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ilful360)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilful360@gmail.com)
 <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
-
-
+</div>
 
 
 
