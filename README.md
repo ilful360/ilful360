@@ -1,5 +1,6 @@
 
 
+
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=300&section=header&text=أعُوذُ%20بِاللهِ%20مِنَ%20الشَّيْطَانِ%20الرَّجِيمِ&fontSize=50&type=waving&fontColor=fefefe&&animation=fadeIn"
@@ -95,7 +96,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </td>
 
 <h2 align="center"> Github Statistics 📈 </h2>
-  
+
+  [![ILFUL's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilful360&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="cent<a href="">
 
   </a>
