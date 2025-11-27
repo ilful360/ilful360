@@ -2,22 +2,21 @@
 
 
 
+  
+
+
 
 
 <!-- HEADER -->
 
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=300&section=header&text=أعُوذُ%20بِاللهِ%20مِنَ%20الشَّيْطَانِ%20الرَّجِيمِ&fontSize=50&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20%D8%A3%D8%B9%D9%8F%D9%88%D8%B0%D9%8F%20%D8%A8%D9%90%D8%A7%D9%84%D9%84%D9%87%D9%90%20%D9%85%D9%90%D9%86%D9%8E%20%D8%A7%D9%84%D8%B4%D9%8E%D9%91%D9%8A%D9%92%D8%B7%D9%8E%D8%A7%D9%86%D9%90%20%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AC%D9%90%D9%8A%D9%85%D9%90&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%D8%A8%D9%90%D8%B3%D9%92%D9%85%D9%90%20%D9%B1%D9%84%D9%84%D9%91%D9%B0%D9%87%D9%90%20%D9%B1%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%B0%D9%86%D9%90%20%D9%B1%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%90%D9%8A%D9%85%D9%90&descSize=18&descAlignY=55&textBg=false"/>
 </div>
 
 <div align='center'>
    
-## <b>بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ</b>
 
 
-
-<br>
 <br>
 <br>
 
@@ -29,7 +28,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;>&nbsp;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8Bᅠ;>&nbsp;Self-Taught+Back-End+Engineer,;>&nbsp;Computer+Science+Student,;>&nbsp;Active+Learner/Researcher,;>&nbsp;Problem+Solver,ᅠᅠᅠᅠ;>&nbsp;Love+to+learn+new+stuffs..<3;-+-+-">
 </p>
 
-
+<br>
 
 <!-- Bar=x2 -->
 
@@ -83,9 +82,14 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align=left>
   
 ## 🐍 OMG!!ᅠSomeone Stop This Snake. 😵
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
 <br>
+
 
 
 <!-- Bar=x1 -->
