@@ -206,7 +206,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 </p>
 </th>
     <th>
-		<br>
 		<h2>🐸Fun Fact</h2>
     <br><p align="center">
       <br>
