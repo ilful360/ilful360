@@ -38,7 +38,7 @@
 <!-- Welcome -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;>&nbsp;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8Bᅠ;>&nbsp;Self-Taught+Back-End+Engineer,;>&nbsp;Computer+Science+Student,;>&nbsp;Active+Learner/Researcher,;>&nbsp;Problem+Solver,ᅠᅠᅠᅠ;>&nbsp;Love+to+learn+new+stuffs..<3;-+-+-">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;>&nbsp;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8Bᅠ;>&nbsp;Self-Taught+Back-End+Engineer,;>&nbsp;Computer+Science+Student,;>&nbsp;Active+Learner/Researcher,;>&nbsp;Problem+Solver,ᅠᅠᅠᅠ;>&nbsp;Love+To+Learn+New+Stuffs..<3;-+-+-">
 </p>
 
 <br>
@@ -48,7 +48,17 @@
 <div align='center'>
   
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]([https://https://github.com/ilful360)
+
+
+
+### 🎓 Computing Systems Student | Aspiring Security Professional&emsp;
+</br>
+
+![Status: Student](https://img.shields.io/badge/Status-B.Comp.Systems%20Student-4D88FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Focus: Learning](https://img.shields.io/badge/Focus-Fundamentals%20of%20Coding-28A745?style=for-the-badge&logo=git&logoColor=white)](https://github.com/badges/shields)
+
+
 
 <div align='center'>
   
@@ -56,28 +66,50 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 <br>
 <br>
-<div align='left'>
 
 
 
   <!-- About Me -->
 
+
+
+<div align='left'>
+
 > ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
 
+<br>
+
+
+I am committed to building a strong foundation in computer science, with the ultimate goal of working in *Cyber Security*. This profile is a public journal of my journey from beginner to professional.
+
+<br>
+
+- 📚 *Currently Studying:* Core Programming Logic, Data Structures, and Computing Systems Architecture.
+- 🌱 *Goal:* To understand how systems function, enabling me to secure them effectively against threats.
+- 💡 *Mantra:* Security starts with the basics. I am focused on mastering the fundamentals.
+
+
+
+ </br>
+
+---
+
+## 🛠 The Foundation (My Current Toolkit)
+
+</br>
+
+This is the core environment I'm using to start my journey.
+
+- *Environment:* Git & GitHub, VS Code
+- *Concepts:* Algorithms, Problem Solving, and System Design Principles
 
 <br>
 <br>
+
+> "The beginning is the most important part of the work." — Plato<br>
+
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 <!-- Bar=x1 -->
@@ -89,12 +121,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
-<!-- Snake Game -->
+<!-- Packman Game -->
 
 <div align=left>
 	
-## 🎮 OMG!!ᅠSomeone Stop This Game. 😵
+## 🎮 OMG!!ᅠSomeone Stop This Game... 😵
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilful360/ilful360/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilful360/ilful360/output/pacman-contribution-graph.svg">
@@ -118,7 +149,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align=center>
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ilful360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
