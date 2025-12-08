@@ -3,10 +3,6 @@
 
 
 
-### My Professional Certification
-
-[![View my certification on Credly](images.credly.com)](www.credly.com)
-
 
 
 
@@ -112,12 +108,18 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+<div align="left">
+	<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+
+## <b>🎓 One Of My Certifications:</b>
+<div align="center">
+	
 <div class='academy-badge'>
 <a href='https://app-na2.hubspot.com/academy/achievements/y3r1jgxt/en/1/md-ilful-hossain/digital-marketing' title='Digital Marketing '>
 <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/99ccad3f795c4eb0bf06b8a10c772862.png' />
 </a>
 </div>
+
 <!-- End: HubSpot Academy - Digital Marketing  Badge -->
 
 
@@ -163,12 +165,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-<!-- Bar=x1 -->
 
-<div align='center'>
-  
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 
 
@@ -279,7 +276,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <!-- Socials / Contacts -->
 
- <h3>🌐 Socials:</h3>
+ <h3>🌐 Socials:ᅠ</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1067680121873510441)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilful360@gmail.com)
