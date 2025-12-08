@@ -3,14 +3,9 @@
 
 
 
+### My Professional Certification
 
-  
-
-
-
-
-
-
+[![View my certification on Credly](images.credly.com)](www.credly.com)
 
 
 
