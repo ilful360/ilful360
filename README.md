@@ -9,6 +9,8 @@
 
 
 
+
+
 <!-- HEADER -->
 
 <div align="center" width="100">
@@ -44,7 +46,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### 🎓 Computing Systems Student | Aspiring Security Professional&emsp;
 </br>
 
-![Status: Student](https://img.shields.io/badge/Status-B.Comp.Systems%20Student-4D88FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Status: Student](https://img.shields.io/badge/Status-B.Comp.Systems%20Student-4D88FF?style=for-the-badge&logo=visual-studio-code&logoColor=white) ᅠᅠ
+<img src="https://komarev.com/ghpvc/?username=ilful360&label=Profile%20views&color=0e75b6&style=flat" alt="ilful360" /> ᅠᅠ
 [![Focus: Learning](https://img.shields.io/badge/Focus-Fundamentals%20of%20Coding-28A745?style=for-the-badge&logo=git&logoColor=white)](https://github.com/badges/shields)
 
 
