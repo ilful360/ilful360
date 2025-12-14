@@ -1,33 +1,15 @@
 
 
-# 💻 Tech Stack & 📝 Latest Blog Post
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-        <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-      </picture>
-    </td>
-    <td valign="top" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-    </td>
-         
-<!-- BLOG-POST-LIST:START -->
-<ul><li>🔗 [Building a Personalized Telegram Chatbot with Python and Gemini 2.0 Flash](https://harrypage.hashnode.dev/building-a-personalized-telegram-chatbot-with-python-and-gemini-20-flash)</li> <li>🔗 [MVVM with Jetpack Compose:  CRUD App](https://harrypage.hashnode.dev/mvvm-with-jetpack-compose-crud-app)</li> <li>🔗 [Câu lệnh cài và chạy website trên WSL](https://harrypage.hashnode.dev/cau-lenh-cai-va-chay-website-tren-wsl)</li> <li>🔗 [install and use Google Chrome on Ubuntu running inside WSL](https://harrypage.hashnode.dev/install-and-use-google-chrome-on-ubuntu-running-inside-wsl)</li> <li>🔗 [Set up mkcert HTTPS on your PHP web server running on WSL (Windows Subsystem for Linux)](https://harrypage.hashnode.dev/set-up-mkcert-https-on-your-php-web-server-running-on-wsl-windows-subsystem-for-linux)</li> </ul>
-<!-- BLOG-POST-LIST:END -->
-
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/xamidi/github-stats-combinator"><img width="776" height="352" alt="[ilful's GitHub stats - refresh to load image]" src="https://github-stats-combinator.vercel.app/api?stats=username%ilful360%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26hide_border%3Dtrue&languages=username%ilful360%26layout%3Ddonut-vertical%26theme%3Dradical%26langs_count%3D4%26hide_border%3Dtrue&trophies=username%ilful360%26theme%3Dradical%26column%3D3%26margin-w%3D9%26margin-h%3D9%26title%3DLongTimeUser%2CExperience%2CCommits"></a>
+</p>
 
 
 
-
-
-
-
+<div align="center">
+	
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ilful360&data=followers,repositories,stars,commits&theme=dark_magic_girl)](https://github.com/ilful360)
+</div>
 
 
 
@@ -170,20 +152,21 @@ This is the core environment I'm using to start my journey.
 <br>
 
 
+
 <!-- Bar=x1 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- Trophies -->
 
+<!-- Trophies -->
 <div align=center>
   
 ## 🏆 GitHub Trophies
 
-<a href="https://github-trophies.vercel.app/?username=ilful360" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=ilful360&theme=radical&margin-w=4&margin-h=4">
+<!--<a href="https://github-trophies.vercel.app/?username=ilful360" target="_blank"> -->
+  <img src="https://github-trophies.vercel.app/?username=ilful360&theme=radical&margin-w=4&margin-h=4&column=9">
 </a>
 
 
