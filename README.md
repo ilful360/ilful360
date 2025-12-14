@@ -1,5 +1,31 @@
 
 
+# 💻 Tech Stack & 📝 Latest Blog Post
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+        <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+      </picture>
+    </td>
+    <td valign="top" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+    </td>
+         
+<!-- BLOG-POST-LIST:START -->
+<ul><li>🔗 [Building a Personalized Telegram Chatbot with Python and Gemini 2.0 Flash](https://harrypage.hashnode.dev/building-a-personalized-telegram-chatbot-with-python-and-gemini-20-flash)</li> <li>🔗 [MVVM with Jetpack Compose:  CRUD App](https://harrypage.hashnode.dev/mvvm-with-jetpack-compose-crud-app)</li> <li>🔗 [Câu lệnh cài và chạy website trên WSL](https://harrypage.hashnode.dev/cau-lenh-cai-va-chay-website-tren-wsl)</li> <li>🔗 [install and use Google Chrome on Ubuntu running inside WSL](https://harrypage.hashnode.dev/install-and-use-google-chrome-on-ubuntu-running-inside-wsl)</li> <li>🔗 [Set up mkcert HTTPS on your PHP web server running on WSL (Windows Subsystem for Linux)](https://harrypage.hashnode.dev/set-up-mkcert-https-on-your-php-web-server-running-on-wsl-windows-subsystem-for-linux)</li> </ul>
+<!-- BLOG-POST-LIST:END -->
+
+  </tr>
+</table>
+
+
+
+
+
 
 
 
@@ -34,28 +60,26 @@
 
 <br>
 
-<!-- Bar=x2 -->
+<!-- Bar=x1 -->
 
-<div align='center'>
+  <div align='center'>
   
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]([https://https://github.com/ilful360)
-
+[![Aqua line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) 
 
 
 ### 🎓 Computing Systems Student | Aspiring Security Professional&emsp;
 </br>
 
 ![Status: Student](https://img.shields.io/badge/Status-B.Comp.Systems%20Student-4D88FF?style=for-the-badge&logo=visual-studio-code&logoColor=white) ᅠᅠ
-<img src="https://komarev.com/ghpvc/?username=ilful360&label=Profile%20views&color=0e75b6&style=flat" alt="ilful360" /> ᅠᅠ
+<img src="https://komarev.com/ghpvc/?username=ilful360&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ilful360" style="padding-right:20px;" /> ᅠᅠ
 [![Focus: Learning](https://img.shields.io/badge/Focus-Fundamentals%20of%20Coding-28A745?style=for-the-badge&logo=git&logoColor=white)](https://github.com/badges/shields)
 
 
+  
+<!-- Bar=x1 -->
 
 <div align='center'>
-  
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 
@@ -104,11 +128,10 @@ This is the core environment I'm using to start my journey.
 
 
 
-<div align="center">
-	
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<!-- Bar=x1 -->
 
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div align="left">
@@ -129,10 +152,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <!-- Bar=x1 -->
 
-  <div align='center'>
-  
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) 
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -149,14 +170,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 
 
-
 <!-- Bar=x1 -->
 
 <div align='center'>
-  
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Trophies -->
@@ -164,14 +181,18 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <div align=center>
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilful360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<a href="https://github-trophies.vercel.app/?username=ilful360" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=ilful360&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 
 
+<!-- Bar=x1 -->
 
-
-
-
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	
 <!-- Skills -->
 
 <td>
@@ -191,10 +212,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <!-- Bar=x1 -->
 
 <div align='center'>
-  
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Github Statistics  -->
@@ -206,17 +224,15 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
   
 <div align='center'>
+<!-- Bar=x1 -->
 
-  <!-- Bar=x1 -->
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Activity -->
 
-<div align="cent<a href="">
+<div align="cent<a href="">ᅠ
 
   
 <div style="display:grid;align-items:center;justify-content:center">
@@ -228,10 +244,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-  <!-- Bar=x1 -->
+ <!-- Bar=x1 -->
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -270,11 +286,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <!-- Bar=x1 -->
 
-<div align="center">
-	
+  <div align='center'>
+  
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) 
 
 
 <!-- Socials / Contacts -->
