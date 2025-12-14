@@ -2,24 +2,6 @@
 
 
 
-<a href="https://discord.com/users/1067680121873510441" target="_blank">
-    <img align="right" width="50%" src="https://lanyard.cnrad.dev/api/1067680121873510441?theme=dark&idleMessage=I'm%20working%20on%20something%20important%20and%20secret!" />
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -31,35 +13,12 @@
 
 
 <p align="center">
-    <a href="https://telegram.me/masterking32" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://instagram.com/masterking32/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
-  </a> 
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
-  </a> 
-  <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-c4302b?style=flat&logo=youtube&logoColor=white">
-  </a> 
-  <a href="https://twitch.com/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://stackoverflow.com/users/3344117/amin-masterking" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat&logo=stack-overflow&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/user/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white">
-  </a> 
-  <a href="https://masterking32.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=egxc31349tufun9ubhpu8vx0t&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=egxc31349tufun9ubhpu8vx0t&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 
+<a href="https://u8views.com/github/ilful360"><img src="https://u8views.com/api/v1/github/profiles/131877247/views/day-week-month-total-count.svg"></a>
 
 
 
@@ -68,22 +27,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-	
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ilful360&data=followers,repositories,stars,commits&theme=dark_magic_girl)](https://github.com/ilful360)
-</div>
 
 
 
@@ -132,9 +75,10 @@
 
 
   
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
@@ -160,18 +104,24 @@ I am committed to building a strong foundation in computer science, with the ult
 - 🌱 *Goal:* To understand how systems function, enabling me to secure them effectively against threats.
 - 💡 *Mantra:* Security starts with the basics. I am focused on mastering the fundamentals.
 
+</br>
 
-
- </br>
+ 
 
 ---
 
 ## 🛠 The Foundation (My Current Toolkit)
 
+<!-- Discord Widget -->
+
+<a href="https://discord.com/users/1067680121873510441" target="_blank">
+    <img align="right" width="50%" src="https://lanyard.cnrad.dev/api/1067680121873510441?hideTag=true&showDisplayName=true&idleMessage=I'm%20Working%20On%20Something%20Important%20And%20Secret!&hideStatus=false" />
+</a>
+
 </br>
 
 This is the core environment I'm using to start my journey.
-
+<br>
 - *Environment:* Git & GitHub, VS Code
 - *Concepts:* Algorithms, Problem Solving, and System Design Principles
 
@@ -184,12 +134,14 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+	
 <div align="left">
 	<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
 
@@ -206,11 +158,11 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Packman Game -->
@@ -226,10 +178,10 @@ This is the core environment I'm using to start my journey.
 <br>
 
 
-
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -245,10 +197,13 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 	
 <!-- Skills -->
 
@@ -266,10 +221,12 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <!-- Github Statistics  -->
@@ -281,10 +238,12 @@ This is the core environment I'm using to start my journey.
 
   
 <div align='center'>
-<!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <!-- Activity -->
@@ -301,9 +260,10 @@ This is the core environment I'm using to start my journey.
 
 
 
- <!-- Bar=x1 -->
+<!-- Bar=x2 -->
 
 <div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -364,8 +324,62 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+
+
+<div align="center">
+	
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ilful360&data=followers,repositories,stars,commits&theme=dark_magic_girl)](https://github.com/ilful360)
+</div>
+
+
+
+
+
+ <h3>🌐 Socials:ᅠ</h3>
+
+<p align="center">
+    <a href="https://telegram.me/masterking32" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://instagram.com/masterking32/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
+  </a> 
+  <a href="https://discord.gg/ydDk9xe" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
+  </a> 
+  <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
+    <img src="https://img.shields.io/badge/-Youtube-c4302b?style=flat&logo=youtube&logoColor=white">
+  </a> 
+  <a href="https://twitch.com/masterking32" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/masterking32" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://stackoverflow.com/users/3344117/amin-masterking" target="_blank">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/masterking32" target="_blank">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white">
+  </a> 
+  <a href="https://masterking32.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
