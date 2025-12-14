@@ -12,6 +12,12 @@
 
 
 
+
+
+
+
+
+<!-- T E M P  
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=egxc31349tufun9ubhpu8vx0t&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=egxc31349tufun9ubhpu8vx0t&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
@@ -19,6 +25,7 @@
 </p>
 
 <a href="https://u8views.com/github/ilful360"><img src="https://u8views.com/api/v1/github/profiles/131877247/views/day-week-month-total-count.svg"></a>
+-->
 
 
 
@@ -35,8 +42,7 @@
 
 
 
-
-<!-- HEADER -->
+<!-- H E A D E R -->
 
 <div align="center" width="100">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20%D8%A3%D8%B9%D9%8F%D9%88%D8%B0%D9%8F%20%D8%A8%D9%90%D8%A7%D9%84%D9%84%D9%87%D9%90%20%D9%85%D9%90%D9%86%D9%8E%20%D8%A7%D9%84%D8%B4%D9%8E%D9%91%D9%8A%D9%92%D8%B7%D9%8E%D8%A7%D9%86%D9%90%20%D8%A7%D9%84%D8%B1%D9%8E%D9%91%D8%AC%D9%90%D9%8A%D9%85%D9%90&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%D8%A8%D9%90%D8%B3%D9%92%D9%85%D9%90%20%D9%B1%D9%84%D9%84%D9%91%D9%B0%D9%87%D9%90%20%D9%B1%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%92%D9%85%D9%B0%D9%86%D9%90%20%D9%B1%D9%84%D8%B1%D9%8E%D9%91%D8%AD%D9%90%D9%8A%D9%85%D9%90&descSize=18&descAlignY=55&textBg=false"/>
@@ -51,7 +57,7 @@
 
 
 
-<!-- Welcome -->
+<!-- W E L C O M E -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=4500&size=32&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+.+.+.+Assalamu+O+Alaikum+Warahmatullah+.+.+.+.;>&nbsp;I'm+MD+ILFUL+HOSSAIN+%F0%9F%91%8Bᅠ;>&nbsp;Self-Taught+Back-End+Engineer,;>&nbsp;Computer+Science+Student,;>&nbsp;Active+Learner/Researcher,;>&nbsp;Problem+Solver,ᅠᅠᅠᅠ;>&nbsp;Love+To+Learn+New+Stuffs..<3;-+-+-">
@@ -59,7 +65,7 @@
 
 <br>
 
-<!-- Bar=x1 -->
+<!-- B A R = x1 -->
 
   <div align='center'>
   
@@ -75,7 +81,7 @@
 
 
   
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -85,7 +91,7 @@
 
 
 
-  <!-- About Me -->
+  <!-- A B O U T - M E -->
 
 
 
@@ -112,7 +118,7 @@ I am committed to building a strong foundation in computer science, with the ult
 
 ## 🛠 The Foundation (My Current Toolkit)
 
-<!-- Discord Widget -->
+<!-- D I S C O R D - W I D G E T -->
 
 <a href="https://discord.com/users/1067680121873510441" target="_blank">
     <img align="right" width="50%" src="https://lanyard.cnrad.dev/api/1067680121873510441?hideTag=true&showDisplayName=true&idleMessage=I'm%20Working%20On%20Something%20Important%20And%20Secret!&hideStatus=false" />
@@ -134,7 +140,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -143,7 +149,7 @@ This is the core environment I'm using to start my journey.
 
 	
 <div align="left">
-	<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+	<!-- HubSpot Academy - Digital Marketing  Badge -->
 
 ## <b>🎓 One Of My Certifications:</b>
 <div align="center">
@@ -152,20 +158,19 @@ This is the core environment I'm using to start my journey.
 <a href='https://app-na2.hubspot.com/academy/achievements/y3r1jgxt/en/1/md-ilful-hossain/digital-marketing' title='Digital Marketing '>
 <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/99ccad3f795c4eb0bf06b8a10c772862.png' />
 </a>
+	
 </div>
 
-<!-- End: HubSpot Academy - Digital Marketing  Badge -->
 
 
-
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- Packman Game -->
+<!-- P A C K M A N - G A M E -->
 
 <div align=left>
 	
@@ -178,7 +183,7 @@ This is the core environment I'm using to start my journey.
 <br>
 
 
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -186,7 +191,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Trophies -->
+<!-- T R O P H I S -->
 <div align=center>
   
 ## 🏆 GitHub Trophies
@@ -197,7 +202,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -205,7 +210,7 @@ This is the core environment I'm using to start my journey.
 
 
 	
-<!-- Skills -->
+<!-- S K I L L S -->
 
 <td>
   
@@ -221,7 +226,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -229,7 +234,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Github Statistics  -->
+<!-- G I T H U B - S T A T I C T S  -->
 
 <h2 align="center"> Github Statistics 📈 </h2>
 
@@ -237,8 +242,7 @@ This is the core environment I'm using to start my journey.
 
 
   
-<div align='center'>
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -246,7 +250,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Activity -->
+<!-- A C T I V I T Y -->
 
 <div align="cent<a href="">ᅠ
 
@@ -260,7 +264,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x2 -->
+<!-- B A R = x2 -->
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -268,7 +272,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Table -->
+<!-- T A B L E -->
 
 <div align="center" width="100">
 <table border="0" >
@@ -301,7 +305,7 @@ This is the core environment I'm using to start my journey.
 
 
 
-<!-- Bar=x1 -->
+<!-- B A R = x1 -->
 
   <div align='center'>
   
@@ -309,7 +313,7 @@ This is the core environment I'm using to start my journey.
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories) 
 
 
-<!-- Socials / Contacts -->
+<!-- S O C I A L S / C O N T A C T S -->
 
  <h3>🌐 Socials:ᅠ</h3>
 
@@ -377,9 +381,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-<!--Footer--> 
+
+<!-- F O O T E R --> 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
