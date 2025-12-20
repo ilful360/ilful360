@@ -348,7 +348,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a href="https://instagram.com/masterking32/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
   </a> 
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
+  <a href="https://discord.gg/ilful360" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a> 
   <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
