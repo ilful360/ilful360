@@ -358,7 +358,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat&logo=stack-overflow&logoColor=white">
   </a> 
   <a href="https://ilful360@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=stack-overflow&logoColor=white">
   </a>
 </p>
 
