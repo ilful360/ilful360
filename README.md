@@ -342,13 +342,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  <h3>🌐 Socials:ᅠ</h3>
 
 <p align="center">
-    <a href="https://telegram.me/masterking32" target="_blank">
+    <a href="https://t.me/Hey_Ive_Got_An_Offer_For_You" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
   </a>
   <a href="https://instagram.com/masterking32/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
   </a> 
-  <a href="https://discord.gg/ydDk9xe" target="_blank">
+  <a href="https://discord.com/users/1067680121873510441" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a> 
   <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
@@ -357,7 +357,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a href="https://twitch.com/masterking32" target="_blank">
     <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white">
   </a> 
-  <a href="https://www.linkedin.com/in/masterking32" target="_blank">
+  <a href="https://www.linkedin.com/in/ilful360" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://stackoverflow.com/users/3344117/amin-masterking" target="_blank">
