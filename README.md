@@ -342,17 +342,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  <h3>🌐 Socials:ᅠ</h3>
 
 <p align="center">
-    <a href="https://t.me/Hey_Ive_Got_An_Offer_For_You" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/__flamboy__360__/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
-  </a> 
   <a href="https://discord.com/users/1067680121873510441" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a> 
   <a href="https://www.linkedin.com/in/ilful360/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white">
+  </a> 
+	 <a href="https://t.me/Hey_Ive_Got_An_Offer_For_You" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/__flamboy__360__/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
   </a> 
   <a href="https://stackoverflow.com/users/32232169/md-ilful-hossain" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat&logo=stack-overflow&logoColor=white">
