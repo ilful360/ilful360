@@ -345,29 +345,20 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a href="https://t.me/Hey_Ive_Got_An_Offer_For_You" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
   </a>
-  <a href="https://instagram.com/masterking32/" target="_blank">
+  <a href="https://www.instagram.com/__flamboy__360__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
   </a> 
   <a href="https://discord.com/users/1067680121873510441" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a> 
-  <a href="https://www.youtube.com/c/AminMasterkinG/" target="_blank">
-    <img src="https://img.shields.io/badge/-Youtube-c4302b?style=flat&logo=youtube&logoColor=white">
-  </a> 
-  <a href="https://twitch.com/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=twitch&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/ilful360" target="_blank">
+  <a href="https://www.linkedin.com/in/ilful360/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://stackoverflow.com/users/3344117/amin-masterking" target="_blank">
+  <a href="https://stackoverflow.com/users/32232169/md-ilful-hossain" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=flat&logo=stack-overflow&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/user/masterking32" target="_blank">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white">
   </a> 
-  <a href="https://masterking32.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-25734f?style=flat&logo=firefox&logoColor=white">
+  <a href="https://ilful360@gmail.com" target="_blank">
+    <img src="https://https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
