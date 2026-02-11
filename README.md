@@ -334,7 +334,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a href="https://www.linkedin.com/in/ilful360/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white">
   </a> 
-	 <a href="https://t.me/Hey_Ive_Got_An_Offer_For_You" target="_blank">
+	 <a href="https://t.me/ilful360" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white">
   </a>
   <a href="https://www.instagram.com/__flamboy__360__/" target="_blank">
